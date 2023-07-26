@@ -1,7 +1,7 @@
 
 ## Introduction
 
-This project is aimed at helping me to improve my JavaScript skills. It includes various JavaScript concepts and features that I've been practicing.
+This repository is aimed at helping me to improve my JavaScript skills. It includes various JavaScript concepts and features that I've been practicing.
 
 ## Contact
 Contact Me:
